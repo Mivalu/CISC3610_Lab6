@@ -1,0 +1,9 @@
+.photos {
+	width: 400px;
+	height: 400px;
+	text-align: center;
+}
+.photos img {
+	width: 100%;
+	height: auto;
+}
